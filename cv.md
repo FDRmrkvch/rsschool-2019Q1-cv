@@ -5,4 +5,4 @@
 5. on Github
 6. Laboratory work at the university.
 7. BSU Physics Faculty, MyFreedom courses, BSU courses, HTMLacademy
-8. B1, school amd university
+8. B1, school and university
